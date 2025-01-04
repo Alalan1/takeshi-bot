@@ -67,7 +67,7 @@ curl -O https://spiderx.com.br/bot-termux.sh && sh bot-termux.sh
 exports.PREFIX = "/";
 
 // Emoji do bot (mude se preferir).
-exports.BOT_EMOJI = "🤖";
+exports.BOT_EMOJI = "🫦";
 
 // Nome do bot (mude se preferir).
 exports.BOT_NAME = "Takeshi Bot";
