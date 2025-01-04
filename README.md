@@ -73,10 +73,10 @@ exports.BOT_EMOJI = "🤖";
 exports.BOT_NAME = "Takeshi Bot";
 
 // Número do bot. Coloque o número do bot (apenas números).
-exports.BOT_NUMBER = "5511920202020";
+exports.BOT_NUMBER = "541136863271";
 
 // Número do dono do bot. Coloque o número do dono do bot (apenas números).
-exports.OWNER_NUMBER = "5511999999999";
+exports.OWNER_NUMBER = "542492007002";
 ```
 
 7 - Inicie o bot novamente, dentro da pasta `takeshi-bot`:
